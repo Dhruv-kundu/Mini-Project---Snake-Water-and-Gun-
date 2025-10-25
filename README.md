@@ -64,7 +64,7 @@ how a basic idea can evolve into a multi-technology project when you code with j
 ### ▶️ C Version
 ```
 gcc main.c -o main
-./main
+./a.exe
 ```
 ### ▶️ Python Console Version
 ```
