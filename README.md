@@ -100,9 +100,9 @@ From typing in the terminal ➜ to designing a GUI — every step was full of fu
 
 If you found this interesting or inspiring — let’s connect! 🚀
 
-💼 LinkedIn :
+💼 LinkedIn : https://www.linkedin.com/in/dhruv-kundu-ba4976387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-💻 GitHub : 
+💻 GitHub : https://github.com/Dhruv-kundu
 
 E-mail id : kd243315@gmail.com
 
